@@ -1,0 +1,26 @@
+[theme]
+base = "light"
+primaryColor = "#191817"
+backgroundColor = "#F8F7F4"
+secondaryBackgroundColor = "#FFFEFD"
+textColor = "#191817"
+font = "sans serif"
+headingFont = "serif"
+linkColor = "#62588F"
+borderColor = "#E9E5DF"
+baseRadius = "0.8rem"
+buttonRadius = "999px"
+showWidgetBorder = true
+showSidebarBorder = true
+
+[theme.sidebar]
+backgroundColor = "#F1EFEB"
+secondaryBackgroundColor = "#FFFEFD"
+primaryColor = "#51477B"
+textColor = "#191817"
+linkColor = "#62588F"
+borderColor = "#E8E4DE"
+
+[browser]
+# Don't send anonymous usage statistics from a classroom machine.
+gatherUsageStats = false
